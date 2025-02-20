@@ -2,9 +2,7 @@
 	id: "2ccd5103-8b97-4619-9477-77d7e7c66b38"
 	type: "player"
 	player_name: "Nuril"
-	ranks: {
-		2ccd5103-8b97-4619-9477-77d7e7c66b38: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Nuril"
 		"ftbteams:description": ""
