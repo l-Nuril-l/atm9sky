@@ -292,45 +292,15 @@
     },
     "done": false
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
-    "criteria": {
-      "has_item": "2025-02-18 14:18:15 +0200"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-02-18 14:14:36 +0200"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-02-18 14:18:15 +0200"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-02-18 14:14:36 +0200"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2025-02-18 14:18:15 +0200"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2025-02-18 14:18:15 +0200"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
-    "criteria": {
-      "has_grass_block": "2025-02-18 14:22:58 +0200"
     },
     "done": true
   },
@@ -343,12 +313,6 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-02-18 14:14:36 +0200"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2025-02-18 14:18:15 +0200"
     },
     "done": true
   },
@@ -370,21 +334,63 @@
     },
     "done": true
   },
-  "botania:recipes/misc/dye_purple": {
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-02-18 14:14:36 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-02-18 14:14:36 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-18 14:14:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-18 14:14:36 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
       "has_item": "2025-02-18 14:18:15 +0200"
     },
     "done": true
   },
-  "botania:main/lexicon_use": {
+  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
     "criteria": {
-      "use_lexicon": "2025-02-18 14:18:19 +0200"
+      "has_item": "2025-02-18 14:18:15 +0200"
     },
     "done": true
   },
-  "croptopia:recipes/chilli_relleno": {
+  "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
-      "has_egg": "2025-02-18 14:14:36 +0200"
+      "has_item": "2025-02-18 14:18:15 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-18 14:18:15 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-18 14:18:15 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2025-02-18 14:18:15 +0200"
     },
     "done": true
   },
@@ -400,12 +406,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/scrambled_eggs": {
-    "criteria": {
-      "has_egg": "2025-02-18 14:14:36 +0200"
-    },
-    "done": true
-  },
   "botania:recipes/misc/petal_purple": {
     "criteria": {
       "has_alt_item": "2025-02-18 14:18:15 +0200"
@@ -418,15 +418,1629 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+  "botania:main/lexicon_use": {
     "criteria": {
-      "fried_egg": "2025-02-18 14:14:36 +0200"
+      "use_lexicon": "2025-02-18 14:18:19 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "allthecompressed:recipes/building_blocks/compress/grass_block_1x": {
     "criteria": {
-      "has_egg": "2025-02-18 14:14:36 +0200"
+      "has_grass_block": "2025-02-18 14:22:58 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/basalt": {
+    "criteria": {
+      "has_item": "2025-02-23 17:14:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/directional_highspeed_rail": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/linked_crystal": {
+    "criteria": {
+      "criterion1": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/highspeed_rail": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-02-23 17:17:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-23 17:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-23 17:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-23 17:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-23 17:17:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/knife": {
+    "criteria": {
+      "has_iron": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "exmachinis:root": {
+    "criteria": {
+      "item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/misc/basicmagnet": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/fluid_tank": {
+    "criteria": {
+      "has_ingredient": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "solargeneration:recipes/misc/solar_core_leadstone": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/sturdy_repair_kit": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/comparator_redirector_up": {
+    "criteria": {
+      "criterion2": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/compactor": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/advanced_brewery": {
+    "criteria": {
+      "criterion2": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/misc/rune_holder": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "occultism:recipes/combat/crafting/butcher_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/iron_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/iron": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/frying_pan": {
+    "criteria": {
+      "has_iron": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/minecart_tinkerer": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_furnace": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/liquifier": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
+    "criteria": {
+      "iron": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/iron_mesh_from_flint_mesh": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/modular_router": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/counter_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/pressurized_fluid_tank": {
+    "criteria": {
+      "has_ingredient": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_reinforced_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-23 17:19:35 +0200"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/printing_press": {
+    "criteria": {
+      "has_iron": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/iron_mesh": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_ingot_from_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_mitt": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_rail": {
+    "criteria": {
+      "criterion0": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/atomizer": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/light_detector": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/misc/basic_demagnetization_coil": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/dissolver": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/fluid_hopper": {
+    "criteria": {
+      "has_iron": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "sfm:recipes/redstone/manager": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/combiner": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/comparator_redirector_down": {
+    "criteria": {
+      "criterion2": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "sfm:recipes/redstone/cable": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_reinforced": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_item": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_belt": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
+    "criteria": {
+      "ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 17:19:36 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 17:20:03 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 17:20:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-23 17:20:03 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:affix/merchant": {
+    "criteria": {
+      "sword": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-02-23 17:23:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/iron_band": {
+    "criteria": {
+      "has_lava": "2025-02-23 17:24:49 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_blue_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_green": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_green_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_dark_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_red_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_red": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_red": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_red_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/jungle_sieve": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/tools/force_pack": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_green": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_blue": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/jungle_planks_1x": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_green_r": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_dark": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "oreberriesreplanted:recipes/misc/jungle_vat": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light": {
+    "criteria": {
+      "has_TagKey[minecraft:item / minecraft:planks]": "2025-02-23 17:25:26 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-23 17:25:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/mob_bell": {
+    "criteria": {
+      "criterion6": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 17:25:54 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_horse_armor": {
+    "criteria": {
+      "has_horse_armor": "2025-02-23 17:25:56 +0200"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_tool": "2025-02-23 17:26:03 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_crucible": {
+    "criteria": {
+      "has_item": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_item": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "oreberriesreplanted:recipes/misc/oak_vat": {
+    "criteria": {
+      "has_slab": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-03 14:47:50 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-03 14:47:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-03-03 14:47:50 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-03 14:52:29 +0200"
     },
     "done": true
   },

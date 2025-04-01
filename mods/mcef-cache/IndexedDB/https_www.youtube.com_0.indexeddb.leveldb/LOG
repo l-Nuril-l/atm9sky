@@ -1,3 +1,9 @@
-2025/02/20-21:43:49.530 72d4 Reusing MANIFEST C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/20-21:43:49.540 72d4 Recovering log #4
-2025/02/20-21:43:49.545 72d4 Reusing old log C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2025/03/03-20:44:33.639 6780 Reusing MANIFEST C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/03-20:44:33.648 6780 Recovering log #19
+2025/03/03-20:44:33.649 6780 Reusing old log C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2025/03/03-20:44:35.429 aed4 Compacting 1@1 + 1@2 files
+2025/03/03-20:44:35.435 aed4 Generated table #22@1: 248 keys, 16855 bytes
+2025/03/03-20:44:35.435 aed4 Compacted 1@1 + 1@2 files => 16855 bytes
+2025/03/03-20:44:35.436 aed4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/03-20:44:35.437 aed4 Delete type=2 #17
+2025/03/03-20:44:35.438 aed4 Delete type=2 #20

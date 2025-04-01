@@ -1,5 +1,24 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:source/mycelial_sourcelink",
+        "ars_nouveau:source/vitalic_sourcelink",
+        "ars_nouveau:source/relay",
+        "ars_nouveau:source/source_jar",
+        "ars_nouveau:rituals/performing_rituals"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "industrialforegoing:industrial_foregoing": {
+      "viewedEntries": [
+        "industrialforegoing:basics/fluid_extractor"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
