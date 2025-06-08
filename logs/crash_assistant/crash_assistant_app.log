@@ -1,0 +1,39 @@
+[2025-06-09 00:06:30.073] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-06-09 00:06:30.077] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\local\crash_assistant\36076_1749416779_app.jar, -parentPID, 36076, -parentStarted, 1749416779414, -platform, FORGE, -loaderJarName, fmlloader-1.20.1-47.4.0.jar, -minecraftVersion, 1.20.1, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\mods\CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar, -log4jApi, C:\Users\Nuril\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar, -log4jCore, C:\Users\Nuril\curseforge\minecraft\Install\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar, -googleGson, C:\Users\Nuril\curseforge\minecraft\Install\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar, -commonIo, C:\Users\Nuril\curseforge\minecraft\Install\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar, -lwjglNatives, C:\Users\Nuril\curseforge\minecraft\Install\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar, -processor, AMD Ryzen 7 7735HS with Radeon Graphics        , -serialisedGPUs, VnVsa2FuIGNsYXNzZXMgb3IgbHdqZ2xOYXRpdmVzIG5vdCBmb3VuZCwgZmFsbGluZyBiYWNrIHRvIERpcmVjdFgKU3VjY2Vzc2Z1bGx5IGRldGVjdGVkIEdQVXMgdXNpbmcgRGlyZWN0WDoKSmF2YSB2ZXJzaW9uIGlzIDw9IDIxLiBVc2luZyBKTkkuCklOVEVHUkFURUQgOiBBTUQgUmFkZW9uKFRNKSBHcmFwaGljcwpJTlRFR1JBVEVEIDogQU1EIFJhZGVvbihUTSkgR3JhcGhpY3MKREVESUNBVEVEIDogTlZJRElBIEdlRm9yY2UgUlRYIDQwNTAgTGFwdG9wIEdQVQo=, -recursiveStart]
+[2025-06-09 00:06:30.078] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky
+[2025-06-09 00:06:30.078] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 36076
+[2025-06-09 00:06:30.078] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1749416779414
+[2025-06-09 00:06:30.081] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FORGE
+[2025-06-09 00:06:30.082] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fmlloader-1.20.1-47.4.0.jar
+[2025-06-09 00:06:30.082] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.20.1
+[2025-06-09 00:06:30.083] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-06-09 00:06:30.083] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar
+[2025-06-09 00:06:30.088] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: D:\WpSystem\S-1-5-21-3176331474-1121138481-2075135179-1002\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin\javaw.exe
+[2025-06-09 00:06:30.088] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 17.0.15+6-LTS
+[2025-06-09 00:06:30.089] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Vulkan classes or lwjglNatives not found, falling back to DirectX
+Successfully detected GPUs using DirectX:
+Java version is <= 21. Using JNI.
+INTEGRATED : AMD Radeon(TM) Graphics
+INTEGRATED : AMD Radeon(TM) Graphics
+DEDICATED : NVIDIA GeForce RTX 4050 Laptop GPU
+
+[2025-06-09 00:06:30.115] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 36076 to stop.
+[2025-06-09 00:07:21.134] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Minecraft is running on renderer:
+AMD Radeon(TM) Graphics
+[2025-06-09 00:07:21.146] [WARN] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Detected Minecraft running on integrated GPU:
+AMD Radeon(TM) Graphics,
+while one or more dedicated exists:
+NVIDIA GeForce RTX 4050 Laptop GPU
+[2025-06-09 00:07:21.291] [WARN] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Showing IntegratedGPUWarning.
+[2025-06-09 00:08:57.203] [WARN] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Shown IntegratedGPUWarning.
+[2025-06-09 00:09:38.028] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "36076" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-06-09 00:09:38.034] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\logs\latest.log
+[2025-06-09 00:09:38.039] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding CurseForge: launcher_log.txt from C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\..\..\Install\launcher_log.txt
+[2025-06-09 00:09:38.041] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: client.log from C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\logs\kubejs\client.log
+[2025-06-09 00:09:38.046] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding KubeJS: startup.log from C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\logs\kubejs\startup.log
+[2025-06-09 00:09:38.048] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\Nuril\curseforge\minecraft\Instances\All the Mods 9 - To the Sky - atm9sky\logs\crash_assistant\crash_assistant_app.log
+[2025-06-09 00:09:38.050] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: true
+[2025-06-09 00:09:38.050] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-06-09 00:09:38.050] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: true
+[2025-06-09 00:09:38.051] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft finished normally. Trying to locate terminated processes and Exiting Crash Assistant app.

@@ -47,6 +47,8 @@ EnableAdvancedConfig = false
     #
     CoolantTankAmountPerFuelRod = 30000
 
+    FuelOutputItem = "biggerreactors:uranium_ingot"
+
 [Turbine]
     #
     # Valid range: [5,)

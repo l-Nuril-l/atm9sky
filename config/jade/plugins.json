@@ -51,6 +51,16 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "entangled": {
     "entangled_block_component": true
   },
@@ -65,6 +75,9 @@
     "barrel": true,
     "crucible": true,
     "sieve": true
+  },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
   },
   "immersiveengineering": {
     "multiblock_icon": true
@@ -123,17 +136,6 @@
     "mortar": true,
     "cauldron": true
   },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
   "waystones": {
     "waystone": true
   },
@@ -141,6 +143,7 @@
     "fridge": true,
     "oven": true,
     "sink": true,
+    "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
   },
@@ -169,16 +172,21 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
-  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
     "spawner": true
   },
-  "lootr": {
-    "info": true
+  "balm": {
+    "jade": true
+  },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
   },
   "productivebees": {
     "solitary_nest": true,
@@ -196,6 +204,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "shetiphiancore": {
     "hud.rgb16": true,
     "hud": true,
@@ -203,6 +214,9 @@
   },
   "mysticalagradditions": {
     "infused_farmland": true
+  },
+  "crystalix": {
+    "crystalix_block": true
   },
   "supplementaries": {
     "hat_stand": true
